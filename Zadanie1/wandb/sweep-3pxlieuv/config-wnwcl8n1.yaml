@@ -1,0 +1,18 @@
+wandb_version: 1
+
+batch_size:
+  value: 40
+criterion:
+  value: mean_squared_error
+epochs:
+  value: 50
+h1:
+  value: 16
+h2:
+  value: 64
+h3:
+  value: 16
+learning_rate:
+  value: 0.019700657206660713
+optimizer:
+  value: ada

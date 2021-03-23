@@ -1,0 +1,34 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.8.3",
+    "heartbeatAt": "2021-03-22T18:22:50.110130",
+    "startedAt": "2021-03-22T18:22:44.242301",
+    "docker": null,
+    "gpu": "GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9018",
+        "--control=9016",
+        "--hb=9015",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"651760e2-f22e-47fb-9160-06b30426556d\"",
+        "--shell=9017",
+        "--transport=\"tcp\"",
+        "--iopub=9019",
+        "--f=C:\\Users\\ramang\\AppData\\Local\\Temp\\tmp-87088UVt57U2cgTz.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:ramang22/NN-zadania.git",
+        "commit": "46b40a1ac5ef851df60724ad5611f5e0ff760e4f"
+    },
+    "email": "wibrach@gmail.com",
+    "root": "C:/Users/ramang/Developer/NN-zadania",
+    "host": "DESKTOP-0033PD5",
+    "username": "ramang",
+    "executable": "C:\\ProgramData\\Anaconda3\\python.exe"
+}

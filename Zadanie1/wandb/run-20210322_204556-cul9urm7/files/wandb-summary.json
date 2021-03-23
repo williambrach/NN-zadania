@@ -1,0 +1,1 @@
+{"epoch": 99, "loss": 18.678157806396484, "soft_acc": 0.12027391791343689, "mean_squared_error": 18.678157806396484, "val_loss": 17.945295333862305, "val_soft_acc": 0.13709677755832672, "val_mean_squared_error": 17.945295333862305, "_runtime": 13, "_timestamp": 1616442369, "_step": 99, "best_val_loss": 13.088944435119629, "best_epoch": 69}
