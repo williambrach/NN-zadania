@@ -1,0 +1,33 @@
+food,fish_food,desserts_food,fruit_food,vegetables_food,sweet_food,salty_food,sour_food,bitter_food,beef_food,poultry_food,game_food,pork_food,dairy_food,fatty_food,lamb_food,nutty_food
+casseroles,1,,,1,,1,,,1,1,,,,1,1,
+pasta and pizza,,,,1,,1,,,1,1,1,,1,,,1
+party wine,,,1,,1,,1,1,,,,,,,,
+beef,,,,,,1,,,1,,,,,,,
+"chicken, turkey",,,,,,1,,,,1,,,,,,
+"salads, vegetarian food",,,,1,1,1,1,1,,,,,1,,,1
+oriental food,1,,1,1,1,1,1,,1,1,,1,,1,,1
+buffet,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,1
+mild sausages,,,,,,1,,,1,,,1,,1,,
+pork,,,,,,1,,,,,,1,,1,,
+grilled food,1,,,1,1,1,,,1,1,1,1,,,,
+spicy and meaty sausages,,,,,,1,,,1,1,1,1,,1,,
+savoury snacks,,,,,,1,,,1,,,,,1,,1
+tapas and antipasti,1,,,1,1,1,,,1,1,1,1,1,,,1
+berries and fruits,,,1,,1,,1,1,,,,,,,,1
+hot food,1,,,,,1,,,1,1,1,1,,1,,
+fatty fish,1,,,,,1,,,,,,,,1,,
+seafood,1,,,,,1,1,,,,,,,,,
+lean fish,1,,,,,1,,,,,,,,,,
+sushi,1,,1,1,1,1,,,,,,,,,,
+mild cheeses,,,,,1,1,,,,,,,1,,,
+strong cheeses,,,,,1,1,1,1,,,,,1,,,
+"mutton, lamb",,,,,,1,,,,,,,,,1,
+sweet desserts,,1,1,,1,,,,,,,,1,,,1
+"clams, mussels, scallops and oysters",1,,,,1,1,,,,,,,,1,,
+game,,,,,,1,,,,,1,,,,,
+liver,,,,,,1,,,1,1,1,1,,1,1,
+blini,1,1,1,,1,,,,,,,,1,,,
+chocolate desserts,,1,1,,1,,,,,,,,1,,,1
+mushrooms,,,,,,1,,,,,,,,,,
+soups,1,,,1,1,1,1,1,1,1,,,,,,
+game birds,,,,,,1,,,,,1,,,1,,
